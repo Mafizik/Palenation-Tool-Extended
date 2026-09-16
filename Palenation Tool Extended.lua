@@ -1,7 +1,7 @@
 
 script_name('Palenation Tool Extended') 
 script_author('Tima_Mafizik') 
-script_version("16.09.2026")
+script_version("16.09.2026 v2")
 script_moonloader(19)
 -- PTE runtime protection
 local function __pte_fail()
